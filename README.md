@@ -45,3 +45,5 @@ This engine performs full bitwise manipulation to encrypt and decrypt text files
 
 ---
 *Developed by Khaled Walid*
+
+*"Disclaimer: This implementation is for educational and research purposes only. For production-level security, the Advanced Encryption Standard (AES) is recommended."*
